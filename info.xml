@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>Throttle Plugin</name>
+  <author>Daniel Foscarini</author>
+<!-- Feel free to include your github repo here -->
+  <website>https://tocsindata.com</website>
+
+<!-- the version of the plugin iteself -->
+  <version>15.4.3</version>
+
+<!-- release date of THIS version -->
+  <release>12/21/2023</release>
+
+<!-- the last version of UserSpice you tested the plugin with -->
+  <tested>5.6.6</tested>
+
+<!-- What does your plugin do? -->
+  <description>Throttle Site access.</description>
+
+  <!-- This is the launch button in the plugin manager. If it is blank or missing, Configure Plugin will show up. -->
+    <button>Config</button>
+</plugin>
